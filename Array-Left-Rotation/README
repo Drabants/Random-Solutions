@@ -1,4 +1,4 @@
 This is a solution to the arrays:left rotation problem
 The question can be found here https://www.hackerrank.com/challenges/ctci-array-left-rotation
 
-I have both a slow and fast solution. The slow solution operates at a O(n) speed and the fast solution is O(1).
+I have both a slow and fast solution. The slow solution operates at a O(mn) speed and the fast solution is O(1).
