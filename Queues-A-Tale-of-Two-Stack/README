@@ -1,0 +1,4 @@
+Original problem found here https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks
+
+I really liked this problem. To improve speeds you use the first stack to keep loading values until pop (dequeue) or print front of queue
+is called. If the oldest_on_top stack is empty, you populate it, otherwise you simply use as is.
