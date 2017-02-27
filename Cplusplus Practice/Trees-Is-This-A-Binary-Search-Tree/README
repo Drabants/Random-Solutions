@@ -1,0 +1,3 @@
+Original problem found here https://www.hackerrank.com/challenges/ctci-is-binary-search-tree
+
+This one gave me a bit of trouble since I didn't fully consider the rules of a tree when I implemented. Two solutions are provided here. One is mine which was able to accomplish all the test cases except for two and the other is one derived from assisting videosand help from the comment section. Sadly my solution is very sloppy and I'm not at all happy with it. This problem has just shownme that I have a bit of a weakness when it comes to BST.
