@@ -1,1 +1,1 @@
-# (Original Problem)[https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/description}
+# Original (Problem)[https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/description}
